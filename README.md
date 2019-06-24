@@ -1,6 +1,6 @@
 Docker URL
 
-docker push websonic/laravel_app:tagname
+docker pull websonic/codeeducation
 
 
 
